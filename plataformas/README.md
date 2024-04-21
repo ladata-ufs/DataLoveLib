@@ -1,10 +1,10 @@
 # Plataformas
 
-<details>
+<!-- <details>
     <summary> <strong> Índice </strong> </summary>
         <ul><a href="#-huggingface" style="text-decoration:none">📁 HuggingFace</a></ul>
         <ul><a href="#-kaggle" style="text-decoration:none">📁 kaggle</a></ul>
-</details>
+</details> -->    
 
 <!-- ## 📁 [codecademy](https://www.codecademy.com/catalog)
 
