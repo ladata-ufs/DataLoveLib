@@ -1,5 +1,9 @@
 # Plataformas
 
+- [Plataformas](#plataformas)
+  - [📁 HuggingFace](#-huggingface)
+  - [📁 kaggle](#-kaggle)
+
 <!-- ## 📁 [codecademy](https://www.codecademy.com/catalog)
 
 
