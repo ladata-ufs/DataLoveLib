@@ -1,5 +1,5 @@
 # DataLoveLib
-<!-- > Descrição  -->
+> Em busca da democratização do conhecimento em computação.
 
 Construída para ser o acervo de conhecimentos da LADATA, a DataLoveLib concentra diversas fontes de aprendizado em um só lugar, contando com livros, artigos, plataformas, cursos, entre outras.<br>
 Por sermos uma Liga estabelecida na área da Computação, os materiais aqui presentes tendem à essa área do conhecimento. Contudo, dentre as diversas indicações de conteúdo, muitas delas apontam para materiais de nível iniciante. Então, caso você seja uma pessoa curiosa ou está procurando adentrar essa área, recomendamos que se aventure pelo repositório pois irá encontrar muita coisa útil.<br>

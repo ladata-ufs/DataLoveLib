@@ -1,10 +1,4 @@
-# Plataformas
-
-<!-- <details>
-    <summary> <strong> Índice </strong> </summary>
-        <ul><a href="#-huggingface" style="text-decoration:none">📁 HuggingFace</a></ul>
-        <ul><a href="#-kaggle" style="text-decoration:none">📁 kaggle</a></ul>
-</details> -->    
+# Plataformas 
 
 <!-- ## 📁 [codecademy](https://www.codecademy.com/catalog)
 
@@ -18,8 +12,8 @@
 ## 📁 [Google for Developers](https://developers.google.com/learn?hl=pt-br) -->
 
 
-## 📁 [HuggingFace](https://huggingface.co/)
-O HuggingFace é uma plataforma que incentiva o movimento Open Source  principalmente na grande área da Inteligência Artificial. Contando com diferentes serviços, como armazenamento de modelos de IA, diversos datasets, trilhas de aprendizado, entre outros. Além disso, também funciona como uma rede social para pessoas interessadas na área, permitindo a criação de perfis, abertura de discussões, chats e muito mais.
+## 📁 [Hugging Face](https://huggingface.co/)
+O Hugging Face é uma plataforma que incentiva o movimento Open Source principalmente na grande área da Inteligência Artificial. Conta com diferentes serviços, como armazenamento de modelos de IA, diversos datasets, trilhas de aprendizado, entre outros. Além disso, também funciona como uma rede social para pessoas interessadas na área, permitindo a criação de perfis, abertura de discussões, chats e muito mais.
 
 
 <!-- ## 📁 [IBM SkillsBuild](https://students.yourlearning.ibm.com/) -->
