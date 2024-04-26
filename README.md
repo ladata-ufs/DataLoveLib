@@ -18,8 +18,9 @@ Apresenta sites que armazenam bases de dados de diferentes tipos e origens. Esse
 <!-- ### 📁 livros --> 
 
 ### 📁 plataformas
-Conta com diferentes plataformas e/ou redes sociais que possuam cursos, aulas, ou quaisquer tipo de materiais que sejam úteis para o aprendizados. Paralelamente às plataformas, também indicamos perfis de pessoas ou organizações que produzem conteúdo de qualidade.
+Conta com diferentes plataformas e/ou redes sociais que possuam cursos, aulas, ou quaisquer tipo de materiais que sejam úteis para o aprendizado. Paralelamente às plataformas, também indicamos perfis de pessoas ou organizações que produzem conteúdo de qualidade.
 
+---
 > [!IMPORTANT]
 > O DataLoveLib é um repositório que está em constante atualização, então fique de olho para não perder nenhuma novidade.
 

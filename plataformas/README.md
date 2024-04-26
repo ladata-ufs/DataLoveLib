@@ -1,4 +1,7 @@
 # Plataformas 
+A ideia aqui é recomendar uma série de plataformas que ofereçam diferentes serviços, desde cursos ou tutoriais, até fóruns de discussão e artigos. O importante é te apresentar uma espécie de guia (ou catálogo ou dicionário, você que decide como quer chamar) de uma parte daquilo que está disponível. E como foi dito na página principal, esse acervo está em constante atualização, até por que é impossível inserirmos tudo aqui.<br>
+Dentro da página de cada uma das plataformas, você encontrará uma seção chamada **🔍 Indicações**, onde estarão algumas indicações nossas de materiais disponíveis naquela plataforma. É importante ressaltar que são apenas indicações baseadas no que já fizemos ou sabemos, então, foque sempre na nossa recomendação principal:
+> ✨**Explore**✨. Saia procurando, lendo, colocando sites de cabeça para baixo tentando ver tudo aquilo que pode ser útil para você.
 
 <!-- ## 📁 [codecademy](https://www.codecademy.com/catalog)
 
