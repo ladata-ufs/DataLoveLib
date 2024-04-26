@@ -9,6 +9,6 @@ Os modelos muitas vezes podem ser testados no próprio site, com um card que é 
 Além dos modelos pré-treinados, é também possível encontrar os datasets que foram utilizados no treinamento! Na aba "Datasets" você encontrará diversos conjuntos de dados, também categorizados por tarefa (o que ajuda demais na busca).
 
 > #### 🔍 Indicações
->  * **Modelos**
-    [Análise de Sentimentos - distilbert-base-multilingual-cased-sentiments-student](https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student)
-    [Geração de Texto - Google Gemma](https://huggingface.co/google/gemma-2b-it)
+>* **Modelos**
+>    * [Análise de Sentimentos - distilbert-base-multilingual-cased-sentiments-student](https://huggingface.co/lxyuan/distilbert-base-multilingual-cased-sentiments-student)
+>    * [Geração de Texto - Google Gemma](https://huggingface.co/google/gemma-2b-it)
